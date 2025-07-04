@@ -1,5 +1,5 @@
 # 💫 About Me:
-DSP Systems Engineer Intern @ huMannity Medtec
+DSP Systems Engineer Intern @ huMannity Medtec, Incoming @ Ansys
 <br>
 Prev. Software Engineer Intern at Qualcomm Institute<br>(doing audio processing & front-end development)<br><br>Areas of Interest: Digital Signal Processing, Networks, Probability, Optimization<br><br>Activities: Saxophonist for UCSD Jazz Band & Triple Point<br><br>
 
