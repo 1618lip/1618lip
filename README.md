@@ -6,7 +6,7 @@ Incoming PCIe Intern @ Qualcomm
 <br>
 *Prev* Signal Processing Intern @ huMannity Medtec
 <br>
-*Prev* Software Engineer Intern @ Qualcomm Institute<br>(doing audio processing & front-end development)<br><br>Areas of Interest: Digital Signal Processing, Networks, Probability, Optimization<br><br>Activities: Saxophonist for UCSD Jazz Band & Triple Point<br><br>
+*Prev* Software Engineer Intern @ Qualcomm Institute<br><br>Areas of Interest: Digital Signal Processing, Networks, Probability, Optimization<br><br>Activities: Saxophonist for UCSD Jazz Band & Triple Point<br><br>
 
 
 # 💻 Tech Stack:
