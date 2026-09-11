@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Incoming PCIe Intern @ Qualcomm
+PCIe Intern @ Qualcomm
 
 *Prev* R&D Engineer Intern @ Ansys
 <br>
