@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-PCIe Intern @ Qualcomm
-
+*Prev* PCIe Intern @ Qualcomm
+<br>
 *Prev* R&D Engineer Intern @ Ansys
 <br>
 *Prev* Signal Processing Intern @ huMannity Medtec
